@@ -1,0 +1,8 @@
+# Source code and build files stay private – never upload them
+src/
+*.cs
+*.csproj
+*.sln
+build.bat
+app.manifest
+*.pdb
